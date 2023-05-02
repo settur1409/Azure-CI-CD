@@ -1,10 +1,6 @@
 <template>
   <div id="app">
-<<<<<<< HEAD
-    <h1>Generate inference from enchanced ML model</h1>
-=======
-    <h1>Generate inference from enhanced ML model</h1>
->>>>>>> b20aa361dd1658dc860b7f7ef47952bc253ca290
+    <h1>Generate inference from enchanced ML/DL model</h1>
 	<h2>Upload your data to make to get predictions</h2>
     <img
       alt="Vue logo"
